@@ -1,6 +1,5 @@
 package FailedTestCases;
 
-import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class Test2 {

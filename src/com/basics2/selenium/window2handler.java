@@ -3,7 +3,6 @@ package com.basics2.selenium;
 import java.util.Set;
 
 import org.openqa.selenium.By;
-import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 public class window2handler {

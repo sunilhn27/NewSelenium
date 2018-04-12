@@ -16,5 +16,8 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="D:/MS OFFICE/ExtentReports/extentreports-1.4.jar"/>
+	<classpathentry kind="lib" path="D:/MS OFFICE/ExtentReports/extentreports-2.40.jar"/>
+	<classpathentry kind="lib" path="D:/MS OFFICE/ExtentReports/extentreports-2.41.2.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
